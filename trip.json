@@ -1,0 +1,698 @@
+{
+  "title": "Porto",
+  "dates": "Sun 18 → Wed 21 October 2026",
+  "timezone": "Europe/Lisbon",
+  "lede": "Three days built from thirteen saved reels — Lello at opening, oysters at the market, a Gaia sunset, the coast by tram, the six bridges by boat at golden hour, and one tasting menu.",
+  "base": {
+    "label": "Home base",
+    "name": "Airbnb",
+    "address": "Rua de Mouzinho da Silveira 105, 4050-265 Porto",
+    "q": "Rua de Mouzinho da Silveira 105, Porto",
+    "note": "The street runs from São Bento station down to the Ribeira: 3 min to the station, 5 to the river, 8 to Clérigos. Almost everything is on foot."
+  },
+  "facts": [
+    {
+      "label": "Party",
+      "value": "3 adults"
+    },
+    {
+      "label": "Sunset",
+      "value": "18:55 all three days"
+    },
+    {
+      "label": "Weather",
+      "value": "13–21 °C, showers likely"
+    },
+    {
+      "label": "Wear",
+      "value": "Grippy shoes, light rain jacket"
+    },
+    {
+      "label": "Cash",
+      "value": "Carry some — small cafés prefer it"
+    }
+  ],
+  "reels": {
+    "1": {
+      "url": "https://www.instagram.com/reel/DbBtlhWOxla/",
+      "by": "@paulinekuznecova",
+      "about": "Pronto Breakfast"
+    },
+    "2": {
+      "url": "https://www.instagram.com/reel/DdMSE65sC7x/",
+      "by": "@joujoutravels",
+      "about": "Douro Valley train"
+    },
+    "3": {
+      "url": "https://www.instagram.com/reel/DaN1FYPo2XS/",
+      "by": "@sidequestjournal.co",
+      "about": "15 things to know before Porto"
+    },
+    "4": {
+      "url": "https://www.instagram.com/reel/DJpHcUhvqxN/",
+      "by": "@getyourguide",
+      "about": "Porto food tips"
+    },
+    "5": {
+      "url": "https://www.instagram.com/reel/DXFEIrNgJ8y/",
+      "by": "@adventures.of.cricket",
+      "about": "Livraria Lello"
+    },
+    "6": {
+      "url": "https://www.instagram.com/reel/DNgsuPNt6uh/",
+      "by": "@bettylikestoeat",
+      "about": "Dom Peixe, Matosinhos"
+    },
+    "7": {
+      "url": "https://www.instagram.com/reel/DN4ceyhkXJy/",
+      "by": "@sophielikestoeat",
+      "about": "Bacalhau à Gomes de Sá"
+    },
+    "8": {
+      "url": "https://www.instagram.com/reel/DGd-BesvwRD/",
+      "by": "@insta.noodls",
+      "about": "Emotivo"
+    },
+    "9": {
+      "url": "https://www.instagram.com/reel/DQXQuPYEeNC/",
+      "by": "@gusgueriasgdl",
+      "about": "Bolhão & Casa das Ostras"
+    },
+    "10": {
+      "url": "https://www.instagram.com/reel/Dc1W6-bRZHA/",
+      "by": "@madhouseporto",
+      "about": "Porto for artists & designers"
+    },
+    "11": {
+      "url": "https://www.instagram.com/reel/Db_VUGFt8XS/",
+      "by": "@foodietravellersguide",
+      "about": "Barro, Alibi, Pata Gorda"
+    },
+    "12": {
+      "url": "https://www.instagram.com/reel/Ddh11f-hl3_/",
+      "by": "@sherryeatworld",
+      "about": "Meia-Nau"
+    },
+    "13": {
+      "url": "https://www.instagram.com/reel/DFikknAveYn/",
+      "by": "@insta.noodls",
+      "about": "Where locals eat"
+    }
+  },
+  "days": [
+    {
+      "id": "sun",
+      "date": "2026-10-18",
+      "short": "Sun 18",
+      "tab": "Arrive",
+      "title": "Arrive by rail, sunset, bacalhau",
+      "intro": "Train day. The Alfa Pendular ends at Campanhã; a five-minute urban train, included in your ticket, drops you inside São Bento, three minutes from the door. Everything tonight is within ten minutes of the flat — Alibi, Emotivo and the market are closed on Sundays anyway.",
+      "stops": [
+        {
+          "time": "17:00",
+          "name": "Arrive at Porto Campanhã",
+          "kind": "move",
+          "what": "The Alfa Pendular from Lisbon ends here, 3 km east of the centre — not at São Bento.",
+          "why": "Campanhã is where every long-distance train stops; the last hop into town is a five-minute urban train, and it's included in your ticket.",
+          "logistics": "Follow signs for 'Urbanos / São Bento'. On a Sunday a train leaves every 10–20 min; most Aveiro, Braga, Guimarães and Marco services end at Porto-São Bento — check the boards. Keep your Lisbon ticket: it's valid for this leg if you use it straight away.",
+          "q": "Estação de Porto-Campanhã"
+        },
+        {
+          "time": "17:15",
+          "name": "Urban train → São Bento",
+          "kind": "move",
+          "travel": "transit",
+          "what": "Five minutes, one stop, free with your ticket.",
+          "why": "São Bento is three minutes from the door — and you step off the train straight into the azulejo hall, the best arrival in Porto. A taxi takes longer by the time you've found the rank.",
+          "logistics": "If the next train is 20 min away: Bolt/Uber 10 min, €7–10 — your street is cobbled and sloped, but it's three minutes with wheeled bags. The metro also works (Campanhã → Trindade, change to line D → São Bento, ~20 min) but it's more stairs with luggage.",
+          "q": "Estação de São Bento, Porto"
+        },
+        {
+          "time": "17:20",
+          "name": "São Bento Station — the azulejo hall",
+          "kind": "see",
+          "reel": 3,
+          "what": "20,000 tiles telling Portugal's history around the entrance hall. Ten minutes with the bags is enough.",
+          "why": "Reel 3: 'visit even if you're not taking a train' — you are taking one, and you arrive inside it. Late Sunday afternoon is quieter than any weekday morning, and you'll walk through again on Wednesday on the way out.",
+          "q": "Estação de São Bento, Porto"
+        },
+        {
+          "time": "17:35",
+          "name": "Check in, drop bags",
+          "kind": "rest",
+          "what": "Rua de Mouzinho da Silveira 105 — three minutes downhill from the station.",
+          "why": "Forty minutes to unpack and reset before the light goes.",
+          "q": "Rua de Mouzinho da Silveira 105, Porto"
+        },
+        {
+          "time": "18:15",
+          "name": "Rua das Flores → Miradouro da Vitória",
+          "kind": "see",
+          "notReel": true,
+          "optional": true,
+          "what": "Porto's prettiest street starts a minute from the door; follow it up and cut across to the terrace at Miradouro da Vitória — the whole Ribeira, the bridge and Gaia's cellars below you.",
+          "why": "The train gave you an hour back, and sunset is 18:55: this is the closest viewpoint to the flat that looks over the river for it. Not from your reels — skip it if you'd rather unpack slowly.",
+          "logistics": "15 min of gentle uphill. The terrace is scruffy; the view isn't. From there it's 8 min down the steps to the quay.",
+          "q": "Miradouro da Vitória, Porto"
+        },
+        {
+          "time": "19:00",
+          "name": "Ribeira quay & the Luís I lower deck",
+          "kind": "see",
+          "reel": 3,
+          "what": "Blue hour on the river. Walk halfway across the lower deck for the view and come back.",
+          "why": "The sun has just gone and the bridge lights come on while you're there. Reel 3 warns the Ribeira is packed by late morning; a Sunday evening in October is calm.",
+          "logistics": "8 min down the steps from the viewpoint, or 5 min from the flat. No tickets, no plan.",
+          "q": "Cais da Ribeira, Porto"
+        },
+        {
+          "time": "19:45",
+          "name": "Bacalhau — Portuguese Wine & Food",
+          "kind": "eat",
+          "reel": 7,
+          "what": "Bacalhau à Gomes de Sá (the Porto original), cod-skin chips, their 'bacalhau dourado'. Terrace on the river.",
+          "why": "The only restaurant from your reels that is both open on Sunday and five minutes from the door — exactly what a travel day needs.",
+          "logistics": "Open daily 12:00–22:00. Walk-ins normally; in the low season they take phone bookings — call from the train for a table for three. Backup if full: Meia-Nau (reel 12), seafood rice, open Sunday, 15 min away.",
+          "book": "Call +351 960 378 883 from the train",
+          "q": "Bacalhau Restaurante, Muro dos Bacalhoeiros 154, Porto"
+        },
+        {
+          "time": "21:30",
+          "name": "Early night",
+          "kind": "rest",
+          "why": "Monday starts at 08:20 — the bookshop opens at nine."
+        }
+      ]
+    },
+    {
+      "id": "mon",
+      "date": "2026-10-19",
+      "short": "Mon 19",
+      "tab": "Lello, river & Gaia",
+      "title": "Lello at opening → Bolhão oysters → the river → Gaia sunset",
+      "intro": "A loop: the bookshop and the tower before the crowds, downhill through the market to the river, across the bridge to Gaia, sunset, and back across to dinner — reel 3's tips in the order the geography wants them.",
+      "stops": [
+        {
+          "time": "08:20",
+          "name": "Coffee on Rua das Flores",
+          "kind": "eat",
+          "notReel": true,
+          "what": "Any café — 1 min from the door.",
+          "why": "A quick one — the bookshop opens at 09:00 and you want to be near the front of the line.",
+          "q": "Rua das Flores, Porto"
+        },
+        {
+          "time": "08:40",
+          "name": "Up past São Bento to Lello",
+          "kind": "move",
+          "what": "Three minutes up to the station, then Rua dos Clérigos — 10 min in all.",
+          "why": "A second look at the tiles, this time with a weekday crowd of commuters, on the way to the queue.",
+          "q": "Estação de São Bento, Porto"
+        },
+        {
+          "time": "08:50",
+          "name": "Queue at Livraria Lello",
+          "kind": "see",
+          "reel": 5,
+          "what": "The 09:00 slot — the first of the day. Forty minutes inside.",
+          "why": "Reel 5's trick was the last slot at 19:00, but Tuesday evening now belongs to the boat and Emotivo. Opening is the other quiet window: the first group in gets ten minutes of the staircase before the shop fills, which doesn't happen again until closing. Be at the door ten minutes early.",
+          "book": "Buy 3 tickets for the 09:00 slot at livrarialello.pt",
+          "logistics": "Rua das Carmelitas 144, 9 min from São Bento. Open daily 09:00–19:30. The ticket's price comes off any book you buy. Slots sell out — buy now and check the time printed on the confirmation.",
+          "q": "Livraria Lello, Porto"
+        },
+        {
+          "time": "09:45",
+          "name": "Torre dos Clérigos",
+          "kind": "see",
+          "reel": 3,
+          "what": "240 steps; the whole Baixa, the river and Gaia laid out below.",
+          "why": "Reel 3 says evening, but your evenings are spoken for — Gaia's sunset tonight, the boat tomorrow. At 09:45 the tower has just opened, the stairwell is empty, and the sun is behind you over the city, which is the light you want for the Ribeira side.",
+          "logistics": "Open 09:00–19:00, about €10 with the museum, no booking. Two minutes from Lello.",
+          "q": "Torre dos Clérigos, Porto"
+        },
+        {
+          "time": "10:35",
+          "name": "Capela das Almas",
+          "kind": "see",
+          "reel": 3,
+          "what": "The blue-tiled chapel on Rua de Santa Catarina.",
+          "why": "Reel 3 lists it among the places 'crowded by late morning'. At 10:35 you're still ahead of the tour groups, which arrive from about 11.",
+          "logistics": "15-min walk via Praça da Liberdade and Rua de Santa Catarina.",
+          "q": "Capela das Almas, Porto"
+        },
+        {
+          "time": "10:50",
+          "name": "Mercado do Bolhão",
+          "kind": "see",
+          "reel": 9,
+          "what": "Porto's oldest market. Wander the fish, flower and cheese stalls, then Rua de Santa Catarina next door.",
+          "why": "Open Mon–Sat 8–20 and closed Sunday, so it had to be a weekday — and the stalls are fullest before noon.",
+          "logistics": "3 min. Forty minutes to browse, then straight to the oysters.",
+          "q": "Mercado do Bolhão, Porto"
+        },
+        {
+          "time": "11:30",
+          "name": "Casa das Ostras",
+          "kind": "eat",
+          "reel": 9,
+          "what": "Oysters from their own beds near Aveiro, shellfish with parsley olive oil, a glass of wine — under €30.",
+          "why": "Early lunch on purpose: only a handful of counter seats, and the market lunch rush peaks at 13:00. At 11:30 you walk straight in.",
+          "logistics": "Stalls 168–169 inside the market. No booking.",
+          "q": "Casa das Ostras, Mercado do Bolhão, Porto"
+        },
+        {
+          "time": "12:30",
+          "name": "Down to the Ribeira",
+          "kind": "move",
+          "what": "Via Rua de Santa Catarina and Rua das Flores, or the Funicular dos Guindais down from Batalha.",
+          "why": "Downhill all the way, and there's no rush: the river cruise moved to Tuesday, so the Ribeira gets a slow hour instead.",
+          "logistics": "20 min on foot, or the funicular down (~€4).",
+          "q": "Cais da Ribeira, Porto"
+        },
+        {
+          "time": "13:00",
+          "name": "The Ribeira at lunchtime",
+          "kind": "see",
+          "reel": 3,
+          "what": "Praça da Ribeira, the arcades, the rabelo boats, a coffee or a glass of something on the quay.",
+          "why": "Reel 3 warns it's packed by late morning — true, and this is the one time it's worth being in the crowd: full sun on the façades, the bridge above you, and the Gaia cellars across the water that you're about to visit.",
+          "logistics": "No plan here. If oysters weren't enough lunch, Taxca (reel 13) is 12 min back up the hill, or there's always a tosta on the quay.",
+          "q": "Praça da Ribeira, Porto"
+        },
+        {
+          "time": "14:15",
+          "name": "Funicular dos Guindais — up",
+          "kind": "move",
+          "reel": 3,
+          "what": "Three minutes from the river up to Batalha.",
+          "why": "Reel 3: 'take the funicular instead of climbing — it saves your legs and offers beautiful views of the river.' You need the top level for the upper deck anyway.",
+          "logistics": "~€4. The base is at the east end of the quay, under the bridge.",
+          "q": "Funicular dos Guindais, Porto"
+        },
+        {
+          "time": "14:30",
+          "name": "Luís I Bridge — upper deck, on foot",
+          "kind": "see",
+          "reel": 3,
+          "what": "Cross the top deck to Gaia.",
+          "why": "Reel 3: 'most tourists only take photos from one side — walking across gives the best views.' Mid-afternoon the sun is behind you, lighting the Ribeira façades.",
+          "logistics": "7 min from Batalha to the deck, 10 min across.",
+          "q": "Ponte Luís I, Porto"
+        },
+        {
+          "time": "14:50",
+          "name": "Gaia cable car — down",
+          "kind": "move",
+          "reel": 3,
+          "what": "Five minutes floating over the cellar rooftops to the quay.",
+          "why": "You land at the top station anyway. Buy the return — you'll ride back up for sunset.",
+          "logistics": "€10 return, no booking. Runs 10:00–19:00 until Oct 24.",
+          "q": "Teleférico de Gaia"
+        },
+        {
+          "time": "15:15",
+          "name": "Cais de Gaia",
+          "kind": "see",
+          "what": "Rabelo boats and the postcard view back at Porto.",
+          "why": "Forty-five slow minutes before the tasting: the rabelo boats, the riverside, a pastel de nata.",
+          "q": "Cais de Gaia, Vila Nova de Gaia"
+        },
+        {
+          "time": "16:00",
+          "name": "Port cellar tour & tasting",
+          "kind": "eat",
+          "reel": 3,
+          "what": "A one-hour tour and tasting at a riverside house.",
+          "why": "Reel 3: 'don't skip Vila Nova de Gaia — the famous port wine cellars.' A 16:00 slot sits neatly between the cable car and sunset.",
+          "logistics": "Pick a riverside cellar so you don't lose time climbing: Cálem is at the cable-car base, Sandeman 3 min along; Taylor's and Graham's have the views but are 15–20 min uphill (the houses themselves aren't from your reels). About €20–25, English tours hourly.",
+          "book": "Book a 16:00 English tour",
+          "q": "Caves Cálem, Vila Nova de Gaia"
+        },
+        {
+          "time": "17:30",
+          "name": "Cable car up → Jardim do Morro",
+          "kind": "see",
+          "reel": 3,
+          "what": "Golden hour from about 18:15, sunset at 18:55.",
+          "why": "Reel 3: 'one of the best free sunset spots in Portugal.' Arriving by 17:45 gets you a spot on the grass before the crowd.",
+          "logistics": "Last cable car is 19:00 — you're up well before. There's a kiosk for a drink.",
+          "q": "Jardim do Morro, Vila Nova de Gaia"
+        },
+        {
+          "time": "19:10",
+          "name": "Back across the upper deck",
+          "kind": "move",
+          "what": "The bridge and both banks lit up.",
+          "why": "Fifteen minutes of the best night view in the city, on the way to dinner.",
+          "logistics": "Upper deck → Sé → Rua dos Caldeireiros, 15–18 min.",
+          "q": "Sé do Porto"
+        },
+        {
+          "time": "19:45",
+          "name": "Alibi by YoursPorto",
+          "kind": "eat",
+          "reel": 11,
+          "what": "Oysters and tuna tartare, then the Portuguese rice pots. Dessert and a glass of Port. Hidden courtyard at the back.",
+          "why": "Closed Sundays, open Mon–Sat 19:00–23:45 — so Monday it is, and it's on your walk home. If lunch was already oysters, go straight to the rice.",
+          "logistics": "Rua dos Caldeireiros 135. The flat is 6 min downhill.",
+          "book": "Book 19:45 for three — +351 917 188 402",
+          "q": "Alibi by YoursPorto, Rua dos Caldeireiros 135, Porto"
+        }
+      ]
+    },
+    {
+      "id": "tue",
+      "date": "2026-10-20",
+      "short": "Tue 20",
+      "tab": "Coast & boat",
+      "title": "Coast by tram, Matosinhos fish, the art district, six bridges at golden hour, a tasting menu",
+      "intro": "The calendar forces this day: Dom Peixe and most galleries are closed on Mondays, Emotivo is Tue–Sat, and the boat is booked for 17:00. The afternoon drifts west — galleries, wine, a vintage tram down to the river — and the boat hands you back to the city at sunset.",
+      "stops": [
+        {
+          "time": "08:30",
+          "name": "Breakfast near the flat",
+          "kind": "eat",
+          "notReel": true,
+          "why": "Eat properly — lunch is at 12:15 after a long walk.",
+          "q": "Rua das Flores, Porto"
+        },
+        {
+          "time": "09:00",
+          "name": "Tram 1 from 'Infante' to Foz",
+          "kind": "move",
+          "reel": 3,
+          "what": "The historic tram along the river to Passeio Alegre, 25 min. Look left around the Arrábida bridge: the small Cais do Ouro pier there is where your boat leaves this afternoon.",
+          "why": "Reel 3: 'the historic trams are for the experience, not transport — charming but slow at busy hours.' First trams run about 09:00–09:30, every 20 min; this early you get a window seat.",
+          "logistics": "The stop is 5 min from the flat, beside Igreja de São Francisco. €6 cash on board.",
+          "q": "Igreja de São Francisco, Porto"
+        },
+        {
+          "time": "09:50",
+          "name": "Foz do Douro promenade",
+          "kind": "see",
+          "reel": 3,
+          "what": "Passeio Alegre → Felgueiras lighthouse → the pergola → north along the beaches.",
+          "why": "Morning on the Atlantic before the city fills up. Reel 3: 'surprisingly windy — bring a light jacket, even in summer.'",
+          "logistics": "60–75 min of walking.",
+          "q": "Jardim do Passeio Alegre, Porto"
+        },
+        {
+          "time": "11:15",
+          "name": "On to Matosinhos",
+          "kind": "move",
+          "what": "Keep walking the beach boardwalk (3 km, ~40 min) or hop on bus 500 along the coast (10 min).",
+          "why": "Aim to reach the restaurant right at opening.",
+          "q": "Praia de Matosinhos"
+        },
+        {
+          "time": "12:15",
+          "name": "Dom Peixe",
+          "kind": "eat",
+          "reel": 6,
+          "what": "Grilled fish sold by weight on Matosinhos' grill street.",
+          "why": "Closed Mondays, open Tuesday 12–23 — hence today. Arriving at 12:15 beats the local lunch rush at 13:00. Reel 6: 'Portugal's freshest seafood.'",
+          "logistics": "Rua Heróis de França 241. No booking needed at opening — a table for three is easy at 12:15.",
+          "q": "Dom Peixe, Rua Heróis de França 241, Matosinhos"
+        },
+        {
+          "time": "13:45",
+          "name": "Metro line A → Lapa",
+          "kind": "move",
+          "travel": "transit",
+          "what": "Blue line from Mercado or Matosinhos Sul, about 25 min.",
+          "why": "Fastest way back toward the art district.",
+          "logistics": "10-min walk from Lapa station to Miguel Bombarda.",
+          "q": "Estação Lapa, Porto"
+        },
+        {
+          "time": "14:30",
+          "name": "Rua de Miguel Bombarda — the art district",
+          "kind": "see",
+          "reel": 10,
+          "what": "Galleries, makers, concept stores, the CC Bombarda arcade.",
+          "why": "Galleries open in the afternoon, mostly Tue–Sat from about 14:30 — a Monday visit would have found half of them shut. Reel 10's 'Porto for artists & designers'. Barro (reel 11) is on this street if you want a landmark.",
+          "logistics": "An hour and a quarter is enough. Leave by 15:45 to make the tram.",
+          "q": "Rua de Miguel Bombarda, Porto"
+        },
+        {
+          "time": "15:45",
+          "name": "Rua de Cedofeita → Garrafeira Oli Portugal",
+          "kind": "shop",
+          "reel": 13,
+          "what": "The pedestrian shopping street leads south to local André's go-to wine shop.",
+          "why": "Buy today, not Wednesday — shops open around 10:00 and you'll be gone. They'll wrap bottles for the suitcase; you'll be carrying them onto a boat, so two is plenty.",
+          "logistics": "15-min walk down the pedestrian street. Open Mon–Fri 10:00–21:00 (their site; another listing says 20:00). The Carmo tram stop is 3 min from the shop.",
+          "q": "Garrafeira Oli Portugal, Rua de Cedofeita 12, Porto"
+        },
+        {
+          "time": "16:15",
+          "name": "Tram 18 from 'Carmo' → Cais do Ouro",
+          "kind": "move",
+          "reel": 3,
+          "travel": "transit",
+          "what": "The other vintage tram: down Rua da Restauração to Massarelos, then west along the river. Get off at the Arrábida bridge — about 20 min.",
+          "why": "It leaves Carmo at :15 and :45, and the 16:15 drops you at the pier with twenty minutes to spare — a tram to your boat instead of a taxi. Miss it and take a Bolt from Carmo (10 min, €6–8); don't wait for the 16:45.",
+          "logistics": "Terminus beside Igreja do Carmo. €6 on board (card or MBway) or Andante. Tell the driver 'Cais do Ouro, Ponte da Arrábida'. Walking is 35 min, downhill — only if you left Bombarda early.",
+          "q": "Igreja do Carmo, Porto"
+        },
+        {
+          "time": "17:00",
+          "name": "Six bridges by boat — booked",
+          "kind": "see",
+          "reel": 3,
+          "what": "Douro In Board's small boat (ten aboard at most): up the river under all six bridges and back, with white and tawny Port, biscuits and water on board. 1 h 40 — back on the quay around 18:40.",
+          "why": "Fixed, because it's booked — and the slot is a gift. You're on the water for the whole golden hour, Ribeira and Gaia glowing on either side, and you dock as the sun drops into the river mouth (sunset 18:55). Reel 3's 'book in advance' box is ticked.",
+          "book": "Booked — Viator, 3 adults. Show the mobile ticket.",
+          "logistics": "Meeting point: Rua do Ouro 180 — the small Cais do Ouro pier beside the Arrábida bridge, where the Afurada river taxi leaves. Be there by 16:45. It's a tiny operator: if nobody's there at 17:05, call the number on the Viator confirmation (one review mentions a no-show). Free cancellation until 24 h before. Bring a layer — it's cooler on the water after 18:00.",
+          "q": "Rua do Ouro 180, 4150-685 Porto"
+        },
+        {
+          "time": "18:50",
+          "name": "Back to town",
+          "kind": "move",
+          "travel": "driving",
+          "what": "Bolt or Uber from the pier: 10 min to the flat to freshen up, or 12 min straight to Emotivo.",
+          "why": "Dinner is at 20:00 and the pier is 3 km west of the flat — a ride is €6–9 and buys you half an hour at home first.",
+          "logistics": "Cheaper: bus 500 toward Praça da Liberdade from the riverside stop (every 15–20 min, about 15 min to the Alfândega), then 10 min uphill. Walking is 40 min — not tonight.",
+          "q": "Rua de Mouzinho da Silveira 105, Porto"
+        },
+        {
+          "time": "19:40",
+          "name": "Walk to Cedofeita",
+          "kind": "move",
+          "what": "15 min, uphill at first.",
+          "why": "The room is small — don't be late.",
+          "q": "Rua do Rosário 124, Porto"
+        },
+        {
+          "time": "20:00",
+          "name": "Emotivo",
+          "kind": "eat",
+          "reel": 8,
+          "what": "A seven-moment tasting menu of two Portuguese regions (they change every two months). €90 per two people, excluding drinks.",
+          "why": "Tue–Sat only, 19:00–24:00 — tonight is your one chance. Reel 8: 'the #1 place I needed to go in Porto.' A 20:00 table gives you about two hours. Last night, best meal.",
+          "logistics": "Rua do Rosário 124. The menu is written for two — say you're three when you book and ask how they handle an odd table (usually fine). The flat is 15 min downhill.",
+          "book": "Reserve 20:00 for 3 at emotivo.pt",
+          "q": "Emotivo, Rua do Rosário 124, Porto"
+        }
+      ],
+      "alternates": [
+        {
+          "name": "Barro",
+          "reel": 11,
+          "note": "Garlic prawns and sharing plates, on Miguel Bombarda — if Emotivo falls through.",
+          "q": "Barro, Rua de Miguel Bombarda 38, Porto"
+        },
+        {
+          "name": "Meia-Nau",
+          "reel": 12,
+          "note": "Seafood rice, 2 min from Emotivo.",
+          "q": "Meia-Nau, Travessa de Cedofeita 48, Porto"
+        },
+        {
+          "name": "Taxca",
+          "reel": 13,
+          "note": "Bifanas and petiscos in the Baixa — if you skip Matosinhos and want a quick city lunch.",
+          "q": "Taxca, Rua da Picaria 26, Porto"
+        }
+      ]
+    },
+    {
+      "id": "wed",
+      "date": "2026-10-21",
+      "short": "Wed 21",
+      "tab": "Depart",
+      "title": "Out by noon",
+      "intro": "Short and calm. The tiles are on the way out.",
+      "stops": [
+        {
+          "time": "07:45",
+          "name": "Pack, then coffee and a pastel de nata on Rua das Flores",
+          "kind": "eat",
+          "notReel": true,
+          "why": "One minute from the door, and nothing else opens before you leave.",
+          "q": "Rua das Flores, Porto"
+        },
+        {
+          "time": "08:30",
+          "name": "Leave the flat → São Bento",
+          "kind": "move",
+          "travel": "transit",
+          "what": "3 min uphill. The metro entrance is in the station building.",
+          "why": "One last five minutes with the azulejos on the way out.",
+          "logistics": "Metro D → Trindade (one stop) → line E → Aeroporto, about 40 min door to door. Or Uber/Bolt, 20–25 min.",
+          "q": "Estação de São Bento, Porto"
+        },
+        {
+          "time": "09:15",
+          "name": "At the airport for the 12:00 flight",
+          "kind": "move",
+          "why": "2 h 45 before departure — right for a US-bound flight with non-Schengen exit passport control. Flying within Europe? Leaving the flat at 09:00 is fine.",
+          "q": "Aeroporto Francisco Sá Carneiro"
+        }
+      ]
+    }
+  ],
+  "planB": {
+    "title": "Plan B — if the Douro Valley is non-negotiable",
+    "reel": 2,
+    "text": "With the boat booked for 17:00 on Tuesday, the valley only fits as a long Monday: the early train São Bento → Pinhão (about 2 h 20, €12–14 each way, sit on the right, scenic after Régua), lunch and a quinta tasting, and the mid-afternoon train back to be at Jardim do Morro for sunset. You'd give up Lello, the market oysters, the bridge walk, the cable car and the cellar tour — too much to trade on a two-day visit, which is why it's Plan B. The boat you booked is the Douro on the water; save the valley for a return trip. If you do go, check departures on cp.pt (4–6 trains a day, no seat reservations)."
+  },
+  "bookings": [
+    {
+      "id": "boat",
+      "booked": true,
+      "what": "Six-bridges boat — Douro In Board via Viator, 3 adults",
+      "when": "Booked ✓ — be at Rua do Ouro 180 by 16:45",
+      "for": "Tue 17:00",
+      "link": "https://www.viator.com/tours/Porto/Douro-6-Bridges-cruise-with-gift-of-wine-biscuit-photo/d26879-484640P1"
+    },
+    {
+      "id": "lello",
+      "what": "Livraria Lello tickets ×3, 09:00 slot",
+      "when": "Now — slots sell out",
+      "for": "Mon 09:00",
+      "link": "https://www.livrarialello.pt"
+    },
+    {
+      "id": "emotivo",
+      "what": "Emotivo — table for 3",
+      "when": "Now — small room; the menu is priced per two, ask how they seat three",
+      "for": "Tue 20:00",
+      "link": "https://emotivo.pt"
+    },
+    {
+      "id": "alibi",
+      "what": "Alibi by YoursPorto — table for 3, +351 917 188 402",
+      "when": "This week",
+      "for": "Mon 19:45"
+    },
+    {
+      "id": "cellar",
+      "what": "Port cellar tour for 3, English (e.g., Cálem or Sandeman)",
+      "when": "This week",
+      "for": "Mon 16:00"
+    },
+    {
+      "id": "bacalhau",
+      "what": "Bacalhau — table for 3, +351 960 378 883",
+      "when": "Day of, from the train",
+      "for": "Sun 19:30"
+    }
+  ],
+  "noBooking": "No booking needed: Casa das Ostras and Dom Peixe (arrive at opening), the cable car, the funicular, both trams, the Clérigos tower.",
+  "walking": [
+    {
+      "place": "São Bento",
+      "min": 3
+    },
+    {
+      "place": "Ribeira quay / Bacalhau",
+      "min": 5
+    },
+    {
+      "place": "Tram stop 'Infante'",
+      "min": 5
+    },
+    {
+      "place": "Alibi",
+      "min": 6
+    },
+    {
+      "place": "Luís I lower deck",
+      "min": 8
+    },
+    {
+      "place": "Funicular base",
+      "min": 8
+    },
+    {
+      "place": "Clérigos / Lello",
+      "min": 9
+    },
+    {
+      "place": "Miradouro da Vitória",
+      "min": 7
+    },
+    {
+      "place": "Oli Portugal",
+      "min": 10
+    },
+    {
+      "place": "Bolhão",
+      "min": 13
+    },
+    {
+      "place": "Capela das Almas",
+      "min": 15
+    },
+    {
+      "place": "Emotivo",
+      "min": 15
+    },
+    {
+      "place": "Miguel Bombarda",
+      "min": 17
+    },
+    {
+      "place": "Jardim do Morro (via upper deck)",
+      "min": 20
+    },
+    {
+      "place": "Cais do Ouro pier — don't walk",
+      "min": 40
+    }
+  ],
+  "bench": [
+    {
+      "name": "Pronto Breakfast",
+      "reel": 1,
+      "why": "Sunday-only pop-up, 8–15. Your only Sunday is arrival evening."
+    },
+    {
+      "name": "Spiritus light show",
+      "reel": 3,
+      "why": "Reel 3's 'light show after 6 PM' inside the Clérigos church. It lost its slot to the boat, and Monday's 18:00 is the Gaia sunset. Next trip."
+    },
+    {
+      "name": "Taxca · Casa Expresso · O Golfinho · Solar Moinho de Vento",
+      "reel": 13,
+      "why": "Baixa tascas; only two lunches and they went to the oysters and the Matosinhos fish. Taxca is the easiest swap-in."
+    },
+    {
+      "name": "Barro · Pata Gorda · Meia-Nau",
+      "reel": 11,
+      "why": "Only two dinners after arrival night. Barro and Meia-Nau are the Tuesday alternates; Pata Gorda is out in Foz with unreliable hours."
+    },
+    {
+      "name": "Douro Valley train",
+      "reel": 2,
+      "why": "See Plan B."
+    },
+    {
+      "name": "GetYourGuide food tips · MAD House creative guide",
+      "reel": 4,
+      "why": "Their places are only shown on video; covered in spirit by Bolhão and Miguel Bombarda."
+    }
+  ]
+}
